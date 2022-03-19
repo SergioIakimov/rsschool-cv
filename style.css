@@ -1,0 +1,10 @@
+body {
+  background: linear-gradient(
+    to bottom,
+    rgb(191, 187, 236),
+    rgba(46, 28, 236, 0.4)
+  );
+  font-size: 1.15em;
+  text-align: justify;
+  font-family: "Gideon Roman", sans-serif;
+}
